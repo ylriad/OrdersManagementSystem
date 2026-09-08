@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class Order {
 
-    private static final double DISCOUNT_THRESHOLD = 50_000.0;
+    private static final double DISCOUNT_THRESHOLD = 20_000.0;
     private static final double DISCOUNT_RATE = 0.10;
 
     private final int id;
